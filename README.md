@@ -1,0 +1,1 @@
+This project simulates the operation of an elevator, implemented in C++ using a simple console-based interface. The elevator system is designed to handle passengers across different floors, considering weight restrictions and movement direction.
